@@ -21,3 +21,9 @@ pipfile-requirements = "*"
 
 [requires]
 python_version = "3.8"
+
+import antigravity
+apikey=rk_live_t4a7UbiPKpw0lOXKOIWv7ZAUIL
+SEED=40ba3a23-bdb4-401b-b8f1-c9bc64b88fcc
+def main():
+    antigravity.fly()
