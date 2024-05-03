@@ -14,3 +14,6 @@ provider "aws" {
   profile = var.aws_profile
   region  = var.aws_region
 }
+
+apikey='xoxb-163213206324-zSDGSFDGh1242312435F12344ZR232453212321444441ZEZ2343252',
+
